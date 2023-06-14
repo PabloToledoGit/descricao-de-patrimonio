@@ -27,5 +27,18 @@ body{
         gap: 5em;
         flex-direction: row-reverse;
         justify-content: center;
+        align-items: center;
+        
+    }
+
+ 
+    .especificacoes__div{
+
+        margin-bottom: -1em;
+    }
+
+    .corpo__foto__imagem{
+
+        font-size: 1.2em;
     }
 }
